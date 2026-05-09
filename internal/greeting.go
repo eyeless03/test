@@ -9,3 +9,7 @@ func Hello(name string) {
 func Bye(name string) {
 	fmt.Printf("Пока, %s!\n", name)
 }
+
+func PrintAs() {
+	fmt.Println("as")
+}
